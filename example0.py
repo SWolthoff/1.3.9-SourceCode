@@ -3,7 +3,7 @@
 #     team_name: a string
 #     strategy_name: a string
 #     strategy_description: a string
-#     move: A function that returns 'c' or 'b'
+#     move: A function that returns 'c' or 'b'gbjkgbkghjk
 ####
 
 team_name = 'E0'
